@@ -1,2 +1,3 @@
 # practice_project_1
-This a practice project to undertsand github as well as my first github project.
+This is a practice project to familiarize myself with GitHub, as well as my first GitHub project.
+Author - Neha patil
